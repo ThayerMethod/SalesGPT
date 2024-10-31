@@ -1,0 +1,21 @@
+name: salesgpt
+channels:
+  - defaults
+  - conda-forge
+  - nvidia
+dependencies:
+  - python=3.8
+  - openai
+  - spacy
+  - speechrecognition
+  - streamlit
+  - pyyaml
+  - pandas
+  - plotly
+  - numpy
+  - jupyter
+  - pip
+  - pip:
+      - transformers
+      - torch
+      - sentence-transformers  # optional for advanced NLP

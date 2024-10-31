@@ -1,0 +1,5 @@
+{
+    "default": "The customer said: {transcription}. How should I respond?",
+    "recommendation": "The customer asked for a recommendation. Respond with a product recommendation using the following information: {entities}."
+  }
+  

@@ -1,0 +1,25 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+env/
+venv/
+.venv/
+
+# Ignore config and API keys
+config/config.yaml
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+logs/
+*.log

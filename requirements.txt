@@ -1,0 +1,11 @@
+openai
+spacy
+speechrecognition
+streamlit
+pyyaml
+pandas
+plotly
+numpy
+transformers
+torch
+sentence-transformers
